@@ -4,11 +4,7 @@
 
 SafeSync est un outil de sauvegarde automatique et incrémentielle utilisé pour synchroniser un dossier client avec un dossier de sauvegarde serveur chaque jour. Il utilise des liens symboliques durs afin de minimiser l'utilisation de stockage.
 
-Consultez notre [wiki](https://github.com/aeternesatiatus/SafeSync/wiki) pour plus d'informations sur l'installation.
-
-## Installation
-
-Voir ...
+Consultez notre [wiki](https://github.com/lukalafaye/SafeSync/wiki) pour plus d'informations sur l'**installation**.
 
 ## Réalisé avec
 
